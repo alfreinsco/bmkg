@@ -66,8 +66,8 @@ Aplikasi web modern untuk memantau dan menampilkan data cuaca dan gempa bumi rea
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/alfreinsco/bmkg-app.git
-cd bmkg-app
+git clone https://github.com/alfreinsco/bmkg.git
+cd bmkg
 ```
 
 2. **Install Dependencies**
@@ -280,7 +280,7 @@ Kontribusi sangat diterima! Silakan:
 Untuk pertanyaan, saran, atau laporan bug:
 
 -   **Email**: alfreinsco@gmail.com
--   **Issues**: [GitHub Issues](https://github.com/alfreinsco/bmkg-app/issues)
+-   **Issues**: [GitHub Issues](https://github.com/alfreinsco/bmkg/issues)
 
 ## 🙏 Acknowledgments
 
